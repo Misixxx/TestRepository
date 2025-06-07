@@ -1,3 +1,0 @@
-git add test.txt  # або git add
-git commit -m
-git push origin Branch1
